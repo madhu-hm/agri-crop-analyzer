@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+*.egg-info/
+
+# Flask
+instance/
+.flask_session/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / Models (add if large)
+*.pkl
+*.csv
